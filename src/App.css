@@ -1,0 +1,17 @@
+.container {
+  width: 100%;
+  max-width: 380px;
+  height: auto;
+  padding: 1rem;
+  font-family: 'Times New Roman', Times, serif;
+  border: 1px solid rgb(52, 121, 211);
+  color: rgb(52, 121, 211);
+  margin: 2rem auto;
+}
+.titulo {
+  font-weight: bold;
+  text-align: center;
+}
+.subTitulo {
+  text-align: center;
+}
